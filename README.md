@@ -98,18 +98,6 @@ FPL_Analysis/
 | `premier_league_matches.csv` | Team match data (all competitions) |
 | `premier_league_only.csv` | Team match data (Premier League only) |
 
-## Dashboard Columns
-
-### Player Stats
-| Column | Description |
-|--------|-------------|
-| `xG` | Expected Goals |
-| `xAG` | Expected Assists (xA) |
-| `xGI` | Expected Goal Involvement (xG + xA) |
-| `npxG` | Non-Penalty Expected Goals |
-| `Gls` | Goals scored |
-| `Ast` | Assists |
-| `Min` | Minutes played |
 
 ## Rate Limiting
 
